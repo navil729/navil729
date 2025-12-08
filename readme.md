@@ -1,134 +1,653 @@
-
 <div align="center">
-  <div style="padding: 18px 22px; border-radius: 22px; backdrop-filter: blur(14px); background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.18); box-shadow: 0 18px 40px rgba(0,0,0,0.26); max-width: 980px;">
-    <h1 style="margin: 0 0 12px; font-size: 34px;">Hi, I'm Tonmoy — Web Designer & Web Developer</h1>
-    <p style="margin: 0; font-size: 16px; line-height: 1.6;">Crafting fast, beautiful, animated web experiences with a glassmorphic twist — in both English & Bangla.</p>
-    <p style="margin: 8px 0 0; font-size: 14px; opacity: 0.82;">\ud83d\udca1 Light / Dark aware · \ud83c\udf08 Glass Morphism · \ud83c\udfa8 Motion-friendly · \ud83c\udf0d Multilingual</p>
-  </div>
+
+<!-- Dark/Light Mode Toggle -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+a+Web+Designer;%E0%A6%B9%E0%A6%BE%E0%A6%87+%F0%9F%91%8B+%E0%A6%86%E0%A6%AE%E0%A6%BF+%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%AC+%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BE%E0%A6%B0;And+Web+Developer+%F0%9F%9A%80;%E0%A6%8F%E0%A6%AC%E0%A6%82+%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%AC+%E0%A6%A1%E0%A7%87%E0%A6%AD%E0%A7%87%E0%A6%B2%E0%A6%AA%E0%A6%BE%E0%A6%B0+%F0%9F%9A%80">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+a+Web+Designer;%E0%A6%B9%E0%A6%BE%E0%A6%87+%F0%9F%91%8B+%E0%A6%86%E0%A6%AE%E0%A6%BF+%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%AC+%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BE%E0%A6%B0;And+Web+Developer+%F0%9F%9A%80;%E0%A6%8F%E0%A6%AC%E0%A6%82+%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%AC+%E0%A6%A1%E0%A7%87%E0%A6%AD%E0%A7%87%E0%A6%B2%E0%A6%AA%E0%A6%BE%E0%A6%B0+%F0%9F%9A%80">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+a+Web+Designer;And+Web+Developer+%F0%9F%9A%80">
+</picture>
+
+<!-- Glassmorphism Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Creative%20Web%20Artisan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+</div>
+
+<!-- Glassmorphism About Me Card -->
+<div align="center">
+  
+### 🌟 About Me | আমার সম্পর্কে
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🇬🇧 English
+
+```typescript
+const webDeveloper = {
+  name: "Your Name",
+  role: "Full Stack Web Developer & Designer",
+  location: "🌍 Your Location",
+  languages: ["JavaScript", "TypeScript", "Python", "Bengali", "English"],
+  specialization: [
+    "🎨 UI/UX Design",
+    "💻 Web Development",
+    "🚀 Performance Optimization",
+    "📱 Responsive Design",
+  ],
+  currentFocus: "Building beautiful & functional web experiences",
+  funFact: "I turn ☕ into code and designs into reality!",
+};
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### 🇧🇩 বাংলা
+
+```typescript
+const ওয়েবডেভেলপার = {
+  নাম: "আপনার নাম",
+  ভূমিকা: "ফুল স্ট্যাক ওয়েব ডেভেলপার ও ডিজাইনার",
+  অবস্থান: "🌍 আপনার অবস্থান",
+  ভাষা: ["জাভাস্ক্রিপ্ট", "টাইপস্ক্রিপ্ট", "পাইথন", "বাংলা", "ইংরেজি"],
+  বিশেষত্ব: [
+    "🎨 UI/UX ডিজাইন",
+    "💻 ওয়েব ডেভেলপমেন্ট",
+    "🚀 পারফরম্যান্স অপটিমাইজেশন",
+    "📱 রেসপন্সিভ ডিজাইন",
+  ],
+  বর্তমানফোকাস: "সুন্দর ও কার্যকর ওয়েব অভিজ্ঞতা তৈরি করা",
+  মজারতথ্য: "আমি ☕ কে কোডে এবং ডিজাইনকে বাস্তবে রূপান্তরিত করি!",
+};
+```
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## Quick Links
+<!-- Animated Skills Section with Glassmorphism -->
+<div align="center">
 
-- Portfolio: [https://tonmoy.dev](https://tonmoy.dev)
-- Dribbble: [https://dribbble.com/tonmoy](https://dribbble.com/tonmoy)
-- LinkedIn: [https://linkedin.com/in/tonmoy](https://linkedin.com/in/tonmoy)
-- Email: [hello@tonmoy.dev](mailto:hello@tonmoy.dev)
+## 💻 Tech Stack | প্রযুক্তি স্ট্যাক
 
-## About / আমার সম্পর্কে
+### 🎨 Frontend Development
 
-**EN:** I design and build modern, responsive sites and design systems that balance aesthetics with performance. I love glassmorphism, soft lighting, and subtle, purposeful motion.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+</p>
 
-**BN:** আমি ইংরেজি ও বাংলা—দুই ভাষাতেই আধুনিক, রেসপনসিভ ওয়েবসাইট ও ডিজাইন সিস্টেম তৈরি করি। গ্লাসমরফিজম, কোমল লাইটিং আর সূক্ষ্ম এনিমেশন আমার পছন্দ।
+### ⚙️ Backend Development
 
-## What I Do
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+</p>
 
-- Design Systems & UI Kits (Figma → Web)
-- Frontend Engineering (React / Next.js / Astro / Svelte)
-- Motion & Micro-interactions (Framer Motion, GSAP)
-- Performance & Accessibility (Core Web Vitals, a11y)
-- Theming: Light/Dark & glassy surfaces with safe contrasts
+### 🗄️ Database & Cloud
 
-## Skills Snapshot / দক্ষতা
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
 
-`HTML` · `CSS / Tailwind` · `TypeScript` · `React` · `Next.js` · `Astro` · `Svelte` · `Framer Motion` · `GSAP` · `Three.js` · `Node.js` · `UX Writing` · `Figma`
+### 🎨 Design Tools
 
-## Featured Work / কাজের নমুনা
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD"/>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+</p>
 
-- **Lumina Dashboard** — Glassmorphic admin UI with adaptive light/dark, animated charts.
-- **Verse Studio Site** — Portfolio with scroll-triggered motion, 90+ Lighthouse.
-- **Bilingual Landing** — বাংলা/English toggle, RTL-safe components, fluid typography.
-- **Motion Kit** — Reusable animation tokens for Framer Motion & GSAP.
+### 🛠️ Tools & Technologies
 
-## Design Language
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+</p>
 
-- **Glass Morphism:** Layered translucent cards, soft blur, subtle borders, specular highlights.
-- **Light/Dark:** Token-driven palettes with consistent contrast ratios; prefers-color-scheme aware.
-- **Motion:** Easing-curves first (easeOutQuad, cubic-bezier), 180–260ms micro-interactions, staggered reveals.
-- **Effects:** Ambient gradients, frosted cards, focus-visible rings, safe drop shadows.
-
-## Animation & Effects Hints (Markdown-safe)
-
-- Use SVG with `prefers-reduced-motion` fallbacks for GIF/MP4 embeds.
-- Leverage Framer Motion variants for staggered lists and glass cards.
-- Apply `backdrop-filter: blur(12px)` with `background: rgba(255,255,255,0.04)` for frosted layers.
-- Respect reduced motion: gate heavy transitions behind media queries.
-
-## Multilingual / দ্বিভাষিক কনটেন্ট
-
-- Copy defaults to English with Bangla mirrors for key sections.
-- Typography: Pair a humanist Latin with a clear Bengali typeface; align cap-height & baseline.
-- Provide language toggle and persist preference (localStorage / cookies).
-
-## Tooling & Stack
-
-- UI: Figma, Penpot, Illustrator, Protopie
-- FE: Next.js, Astro, Vite, Tailwind, Framer Motion, GSAP
-- QA: Storybook, Playwright, Lighthouse CI, Axe
-- Deploy: Vercel, Netlify, Cloudflare Pages
-
-## Availability / যোগাযোগ
-
-**EN:** Open for freelance, collaborations, and design/dev consulting.
-
-**BN:** ফ্রিল্যান্স, কল্যাব বা কনসালটিং-এর জন্য যোগাযোগ করতে পারেন।
-
-- Email: [hello@tonmoy.dev](mailto:hello@tonmoy.dev)
-- Calendly: [Book a call](https://calendly.com/tonmoy)
-
-## Badges & Stats
-
-![Profile views](https://komarev.com/ghpvc/?username=tonmoy&style=for-the-badge&color=0f172a)
-![GitHub Streak](https://streak-stats.demolab.com?user=tonmoy&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoy&layout=compact&theme=transparent&hide_border=true)
-
-## Sample Motion Tokens (for Framer Motion)
-
-```ts
-const glassCard = {
-  hidden: { opacity: 0, y: 24, filter: "blur(6px)" },
-  show: {
-    opacity: 1,
-    y: 0,
-    filter: "blur(0px)",
-    transition: {
-      type: "spring",
-      stiffness: 160,
-      damping: 18,
-      staggerChildren: 0.08,
-    },
-  },
-};
-```
-
-## Light/Dark CSS Tokens (Glass)
-
-```css
-:root {
-  --surface: rgba(255, 255, 255, 0.06);
-  --border: rgba(255, 255, 255, 0.18);
-  --shadow: 0 18px 40px rgba(0, 0, 0, 0.26);
-}
-@media (prefers-color-scheme: light) {
-  :root {
-    --surface: rgba(255, 255, 255, 0.72);
-    --border: rgba(255, 255, 255, 0.55);
-    --shadow: 0 18px 40px rgba(0, 0, 0, 0.1);
-  }
-}
-.card {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  box-shadow: var(--shadow);
-  backdrop-filter: blur(14px);
-}
-```
-
-## How to Reuse This README
-
-1. Replace links/usernames. 2) Swap badges with your stats. 3) Update projects list. 4) Keep bilingual sections or localize fully. 5) Adjust motion tokens to match your stack.
+</div>
 
 ---
 
-<div align="center" style="opacity:0.85; font-size: 14px;">Designed for a glassy, animated, bilingual GitHub profile — light & dark ready.</div>
+<!-- GitHub Stats with Glassmorphism -->
+<div align="center">
+
+## 📊 GitHub Statistics | গিটহাব পরিসংখ্যান
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&bg_color=00000000&border_radius=15" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=000000&bg_color=00000000&border_radius=15" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&bg_color=00000000&border_radius=15" alt="GitHub Stats"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=00000000&border_radius=15" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideNums=000000&sideLabels=000000&dates=000000&background=00000000&border_radius=15" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=00000000&border_radius=15" alt="GitHub Streak"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=00000000&border_radius=15&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&title_color=6366f1&text_color=000000&bg_color=00000000&border_radius=15&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=00000000&border_radius=15&langs_count=8" alt="Top Languages"/>
+</picture>
+
+### 🏆 GitHub Trophies | গিটহাব ট্রফি
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</picture>
+
+### 📈 Contribution Graph | অবদান গ্রাফ
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=00000000&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal&hide_border=true&bg_color=00000000&color=6366f1&line=6366f1&point=000000&area=true&area_color=6366f1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=00000000&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" width="100%" alt="Contribution Graph"/>
+</picture>
+
+</div>
+
+---
+
+<!-- Animated Skills Progress Bars -->
+<div align="center">
+
+## 🎯 Skills Proficiency | দক্ষতার স্তর
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Design Skills | ডিজাইন দক্ষতা
+
+```text
+UI/UX Design        ████████████████████ 95%
+Responsive Design   ███████████████████░ 92%
+Graphic Design      ██████████████████░░ 88%
+Animation           █████████████████░░░ 85%
+Prototyping         ████████████████████ 90%
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Development Skills | ডেভেলপমেন্ট দক্ষতা
+
+```text
+Frontend Dev        ████████████████████ 95%
+Backend Dev         ██████████████████░░ 87%
+Database Design     ███████████████████░ 90%
+API Development     ██████████████████░░ 88%
+DevOps              ████████████████░░░░ 80%
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- Featured Projects with Glassmorphism -->
+<div align="center">
+
+## 🚀 Featured Projects | বৈশিষ্ট্যযুক্ত প্রকল্প
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Project 1
+
+**Modern E-commerce Platform**
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+A fully responsive e-commerce platform with glassmorphism UI, dark mode support, and smooth animations.
+
+[🔗 Live Demo](#) | [💻 Code](#)
+
+</td>
+<td width="50%">
+
+### 🎨 Project 2
+
+**Portfolio Website Builder**
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+Create stunning portfolio websites with drag-and-drop functionality and real-time preview.
+
+[🔗 Live Demo](#) | [💻 Code](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📱 Project 3
+
+**Social Media Dashboard**
+
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+Analytics dashboard with real-time data visualization and beautiful charts.
+
+[🔗 Live Demo](#) | [💻 Code](#)
+
+</td>
+<td width="50%">
+
+### 🛠️ Project 4
+
+**Design System Library**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+Reusable component library with comprehensive documentation and theming support.
+
+[🔗 Live Demo](#) | [💻 Code](#)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- Animated Work Process -->
+<div align="center">
+
+## 🎨 My Creative Process | আমার সৃজনশীল প্রক্রিয়া
+
+```mermaid
+graph LR
+    A[💡 Ideation<br/>ধারণা] -->|Research| B[🔍 Planning<br/>পরিকল্পনা]
+    B -->|Design| C[🎨 Prototyping<br/>প্রোটোটাইপিং]
+    C -->|Develop| D[💻 Development<br/>ডেভেলপমেন্ট]
+    D -->|Test| E[🧪 Testing<br/>পরীক্ষণ]
+    E -->|Deploy| F[🚀 Launch<br/>লঞ্চ]
+    F -->|Improve| A
+
+    style A fill:#00d9ff,stroke:#00d9ff,stroke-width:2px,color:#000
+    style B fill:#6366f1,stroke:#6366f1,stroke-width:2px,color:#fff
+    style C fill:#ec4899,stroke:#ec4899,stroke-width:2px,color:#fff
+    style D fill:#10b981,stroke:#10b981,stroke-width:2px,color:#fff
+    style E fill:#f59e0b,stroke:#f59e0b,stroke-width:2px,color:#fff
+    style F fill:#8b5cf6,stroke:#8b5cf6,stroke-width:2px,color:#fff
+```
+
+</div>
+
+---
+
+<!-- Services Offered -->
+<div align="center">
+
+## 💼 Services I Offer | আমার সেবাসমূহ
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎨 Web Design
+
+**ওয়েব ডিজাইন**
+
+- UI/UX Design
+- Responsive Layouts
+- Wireframing
+- Prototyping
+- Brand Identity
+
+</td>
+<td align="center" width="33%">
+
+### 💻 Web Development
+
+**ওয়েব ডেভেলপমেন্ট**
+
+- Frontend Development
+- Backend Development
+- Full Stack Solutions
+- API Integration
+- Database Design
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 Optimization
+
+**অপটিমাইজেশন**
+
+- Performance Tuning
+- SEO Optimization
+- Code Refactoring
+- Security Audit
+- Load Time Reduction
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- Connect with me section -->
+<div align="center">
+
+## 🌐 Connect With Me | আমার সাথে যোগাযোগ করুন
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://facebook.com/YOUR_FACEBOOK">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://dribbble.com/YOUR_DRIBBBLE">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
+  </a>
+  <a href="https://behance.net/YOUR_BEHANCE">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+  </a>
+  <a href="https://codepen.io/YOUR_CODEPEN">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
+  </a>
+  <a href="https://dev.to/YOUR_DEVTO">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+### 📧 Get In Touch | যোগাযোগ করুন
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🇬🇧 English**
+
+📮 **Email:** your.email@example.com  
+💬 **Discord:** YourDiscord#1234  
+📱 **Phone:** +880 XXX-XXXXXXX  
+🌐 **Website:** [yourportfolio.com](https://yourportfolio.com)
+
+</td>
+<td align="center" width="50%">
+
+**🇧🇩 বাংলা**
+
+📮 **ইমেইল:** your.email@example.com  
+💬 **ডিসকর্ড:** YourDiscord#1234  
+📱 **ফোন:** +৮৮০ XXX-XXXXXXX  
+🌐 **ওয়েবসাইট:** [yourportfolio.com](https://yourportfolio.com)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- Spotify Now Playing -->
+<div align="center">
+
+## 🎵 Currently Vibing To | এখন যা শুনছি
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00d9ff&bar_color_cover=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=6366f1&bar_color_cover=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing"/>
+</picture>
+
+</div>
+
+---
+
+<!-- Random Dev Quote -->
+<div align="center">
+
+## 💭 Quote of the Day | আজকের উক্তি
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&border=true">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+</picture>
+
+</div>
+
+---
+
+<!-- Fun Facts & Interests -->
+<div align="center">
+
+## 🎯 Fun Facts & Interests | মজার তথ্য ও আগ্রহ
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🇬🇧 English
+
+- 🎮 **Hobbies:** Gaming, Photography, Music
+- 🌱 **Learning:** Web3, AI/ML, Cloud Architecture
+- 💡 **Interests:** Open Source, Tech Blogging
+- ⚡ **Fun Fact:** I debug in my sleep!
+- 🎯 **Goal:** Build products that make a difference
+- 📚 **Reading:** Design Patterns & Clean Code
+- ☕ **Coffee:** 5 cups/day (minimum!)
+
+</td>
+<td width="50%" valign="top">
+
+### 🇧🇩 বাংলা
+
+- 🎮 **শখ:** গেমিং, ফটোগ্রাফি, সঙ্গীত
+- 🌱 **শিখছি:** ওয়েব৩, এআই/এমএল, ক্লাউড আর্কিটেকচার
+- 💡 **আগ্রহ:** ওপেন সোর্স, টেক ব্লগিং
+- ⚡ **মজার তথ্য:** আমি ঘুমের মধ্যে ডিবাগ করি!
+- 🎯 **লক্ষ্য:** পার্থক্য সৃষ্টিকারী পণ্য তৈরি করা
+- 📚 **পড়ছি:** ডিজাইন প্যাটার্ন ও ক্লিন কোড
+- ☕ **কফি:** দিনে ৫ কাপ (ন্যূনতম!)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- Recent Blog Posts -->
+<div align="center">
+
+## 📝 Latest Blog Posts | সাম্প্রতিক ব্লগ পোস্ট
+
+<!-- BLOG-POST-LIST:START -->
+
+- 🎨 [Creating Stunning Glassmorphism Effects in CSS](#)
+- 🚀 [10 Performance Optimization Tips for React Apps](#)
+- 💡 [Building a Design System from Scratch](#)
+- 🌙 [Implementing Dark Mode in Next.js](#)
+- 📱 [Responsive Design Best Practices in 2024](#)
+<!-- BLOG-POST-LIST:END -->
+
+▶ [View All Posts](#)
+
+</div>
+
+---
+
+<!-- Profile Views Counter -->
+<div align="center">
+
+## 👀 Profile Views | প্রোফাইল ভিউ
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00d9ff&style=for-the-badge">
+  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6366f1&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
+</picture>
+
+### ⭐ Star Rating | স্টার রেটিং
+
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=social" alt="GitHub Stars"/>
+
+</div>
+
+---
+
+<!-- Support Section -->
+<div align="center">
+
+## 💖 Support My Work | আমার কাজ সমর্থন করুন
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ☕ Buy Me a Coffee
+
+<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
+</a>
+
+</td>
+<td align="center" width="33%">
+
+### 💝 PayPal
+
+<a href="https://paypal.me/YOUR_PAYPAL">
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+</a>
+
+</td>
+<td align="center" width="33%">
+
+### 🌟 GitHub Sponsor
+
+<a href="https://github.com/sponsors/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=ea4aaa" alt="GitHub Sponsors"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+**If you like my work, consider supporting me!**  
+**আমার কাজ পছন্দ হলে, আমাকে সমর্থন করার কথা বিবেচনা করুন!**
+
+</div>
+
+---
+
+<!-- Footer with Wave Animation -->
+<div align="center">
+
+## 🤝 Let's Build Something Amazing Together!
+
+## 🤝 চলুন একসাথে অসাধারণ কিছু তৈরি করি!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+---
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🇬🇧 English
+
+**"Design is not just what it looks like and feels like.  
+Design is how it works."**  
+— Steve Jobs
+
+Made with ❤️ and lots of ☕
+
+</td>
+<td align="center" width="50%">
+
+### 🇧🇩 বাংলা
+
+**"ডিজাইন শুধুমাত্র দেখতে এবং অনুভব করার বিষয় নয়।  
+ডিজাইন হল এটি কিভাবে কাজ করে।"**  
+— স্টিভ জবস
+
+❤️ এবং প্রচুর ☕ দিয়ে তৈরি
+
+</td>
+</tr>
+</table>
+
+### 🔗 Quick Links | দ্রুত লিংক
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://your-resume-link.com)
+[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://yourblog.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=Thanks+for+visiting!+%F0%9F%91%8B;%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%9F+%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%B0+%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF+%E0%A6%A7%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%BE%E0%A6%A6!+%F0%9F%99%8F;Let's+create+something+awesome!+%F0%9F%9A%80;%E0%A6%9A%E0%A6%B2%E0%A7%81%E0%A6%A8+%E0%A6%95%E0%A6%BF%E0%A6%9B%E0%A7%81+%E0%A6%85%E0%A6%B8%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3+%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF+%E0%A6%95%E0%A6%B0%E0%A6%BF!+%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB" alt="Footer Typing"/>
+</p>
+
+</div>
