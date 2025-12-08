@@ -1,14 +1,58 @@
 <div align="center">
 
-<!-- Dark/Light Mode Toggle -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+a+Web+Designer;%E0%A6%B9%E0%A6%BE%E0%A6%87+%F0%9F%91%8B+%E0%A6%86%E0%A6%AE%E0%A6%BF+%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%AC+%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BE%E0%A6%B0;And+Web+Developer+%F0%9F%9A%80;%E0%A6%8F%E0%A6%AC%E0%A6%82+%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%AC+%E0%A6%A1%E0%A7%87%E0%A6%AD%E0%A7%87%E0%A6%B2%E0%A6%AA%E0%A6%BE%E0%A6%B0+%F0%9F%9A%80">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+a+Web+Designer;%E0%A6%B9%E0%A6%BE%E0%A6%87+%F0%9F%91%8B+%E0%A6%86%E0%A6%AE%E0%A6%BF+%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%AC+%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BE%E0%A6%B0;And+Web+Developer+%F0%9F%9A%80;%E0%A6%8F%E0%A6%AC%E0%A6%82+%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%AC+%E0%A6%A1%E0%A7%87%E0%A6%AD%E0%A7%87%E0%A6%B2%E0%A6%AA%E0%A6%BE%E0%A6%B0+%F0%9F%9A%80">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+a+Web+Designer;And+Web+Developer+%F0%9F%9A%80">
-</picture>
+<!-- Glassmorphism Banner with Wave Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&animation=twinkling" width="100%"/>
 
-<!-- Glassmorphism Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Creative%20Web%20Artisan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<!-- Profile Picture Section with Glassmorphism & Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=30&lines=✨+Welcome+to+my+Digital+Universe+✨;✨+আমার+ডিজিটাল+জগতে+স্বাগতম+✨">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=30&lines=✨+Welcome+to+my+Digital+Universe+✨;✨+আমার+ডিজিটাল+জগতে+স্বাগতম+✨">
+    <img alt="Welcome Message" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=30&lines=✨+Welcome+to+my+Digital+Universe+✨">
+  </picture>
+  
+  <br/>
+  
+  <!-- Animated Profile Picture with Glassmorphism Border -->
+  <img src="https://github.com/YOUR_USERNAME.png" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; border: 5px solid transparent; background: linear-gradient(45deg, #00d9ff, #6366f1, #ec4899, #10b981) border-box; box-shadow: 0 8px 32px 0 rgba(99, 102, 241, 0.37); animation: float 3s ease-in-out infinite;"/>
+  
+  <!-- You can also use a custom profile image URL -->
+  <!-- <img src="YOUR_IMAGE_URL_HERE" alt="Profile Picture" width="200" height="200" style="border-radius: 50%;"/> -->
+  
+  <br/><br/>
+  
+  <!-- Gradient Name with Glass Effect -->
+  <h1>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=false&width=500&height=80&lines=YOUR+NAME">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=false&width=500&height=80&lines=YOUR+NAME">
+      <img alt="Name" src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=false&width=500&height=80&lines=YOUR+NAME">
+    </picture>
+  </h1>
+  
+  <!-- Animated Role/Title with Gradient Text -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=80&lines=🎨+Creative+Web+Designer;💻+Full+Stack+Developer;🚀+UI%2FUX+Enthusiast;✨+Digital+Innovator;🎨+সৃজনশীল+ওয়েব+ডিজাইনার;💻+ফুল+স্ট্যাক+ডেভেলপার;🚀+UI%2FUX+উৎসাহী;✨+ডিজিটাল+উদ্ভাবক">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=80&lines=🎨+Creative+Web+Designer;💻+Full+Stack+Developer;🚀+UI%2FUX+Enthusiast;✨+Digital+Innovator;🎨+সৃজনশীল+ওয়েব+ডিজাইনার;💻+ফুল+স্ট্যাক+ডেভেলপার;🚀+UI%2FUX+উৎসাহী;✨+ডিজিটাল+উদ্ভাবক">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=80&lines=🎨+Creative+Web+Designer;💻+Full+Stack+Developer;🚀+UI%2FUX+Enthusiast">
+  </picture>
+  
+  <br/>
+  
+  <!-- Animated Badges with Glassmorphism -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/🎨_Designer-FF6B6B?style=for-the-badge&labelColor=1a1a2e&color=FF6B6B"/>
+    <img src="https://img.shields.io/badge/💻_Developer-4ECDC4?style=for-the-badge&labelColor=1a1a2e&color=4ECDC4"/>
+    <img src="https://img.shields.io/badge/🚀_Innovator-95E1D3?style=for-the-badge&labelColor=1a1a2e&color=95E1D3"/>
+    <img src="https://img.shields.io/badge/✨_Creator-F38181?style=for-the-badge&labelColor=1a1a2e&color=F38181"/>
+  </p>
+  
+  <!-- Gradient Line Separator -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
+</div>
+
+<br/>
 
 </div>
 
