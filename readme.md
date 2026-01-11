@@ -273,31 +273,30 @@ DevOps              ████████████████░░░░
 <tr>
 <td width="50%">
 
-### 🌐 Project 1
+### �️ Bike Selling Site
 
-**Modern E-commerce Platform**
+**Premium Bike Marketplace**
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-A fully responsive e-commerce platform with glassmorphism UI, dark mode support, and smooth animations.
+A dynamic platform for buying and selling new and used bikes with advanced filter options and real-time inventory.
 
 [🔗 Live Demo](#) | [💻 Code](#)
 
 </td>
 <td width="50%">
 
-### 🎨 Project 2
+### 📸 Camera Selling Website
 
-**Portfolio Website Builder**
+**Photography Gear Store**
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-Create stunning portfolio websites with drag-and-drop functionality and real-time preview.
+E-commerce hub for photography enthusiasts designed with a focus on visual appeal, lens compatibility, and UX.
 
 [🔗 Live Demo](#) | [💻 Code](#)
 
@@ -307,30 +306,63 @@ Create stunning portfolio websites with drag-and-drop functionality and real-tim
 <tr>
 <td width="50%">
 
-### 📱 Project 3
+### 👮 Dhaka Metropolitan Police
 
-**Social Media Dashboard**
+**Management System**
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-Analytics dashboard with real-time data visualization and beautiful charts.
+Digital management system for police records, case filing, and real-time resource tracking for DMP.
 
 [🔗 Live Demo](#) | [💻 Code](#)
 
 </td>
 <td width="50%">
 
-### 🛠️ Project 4
+### 👕 Garments Management
 
-**Design System Library**
+**Factory ERP Solution**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-Reusable component library with comprehensive documentation and theming support.
+Comprehensive ERP solution for garment factories tracking production lines, inventory, and shipment logistics.
+
+[🔗 Live Demo](#) | [💻 Code](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏗️ Construction Management
+
+**Site Project Manager**
+
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+Project management tool for construction sites, tracking materials, labor costs, timeline milestones, and blueprints.
+
+[🔗 Live Demo](#) | [💻 Code](#)
+
+</td>
+<td width="50%">
+
+### ⚡ Power Development Board
+
+**BPDB Management System**
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+Utility management system for tracking power distribution, billing, and customer service for the Power Development Board.
 
 [🔗 Live Demo](#) | [💻 Code](#)
 
