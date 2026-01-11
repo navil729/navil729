@@ -14,7 +14,7 @@
   <br/>
   
   <!-- Animated Profile Picture with Glassmorphism Border -->
-  <img src="https://github.com/YOUR_USERNAME.png" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; border: 5px solid transparent; background: linear-gradient(45deg, #00d9ff, #6366f1, #ec4899, #10b981) border-box; box-shadow: 0 8px 32px 0 rgba(99, 102, 241, 0.37); animation: float 3s ease-in-out infinite;"/>
+  <img src="https://github.com/Tonmoy.png" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; border: 5px solid transparent; background: linear-gradient(45deg, #00d9ff, #6366f1, #ec4899, #10b981) border-box; box-shadow: 0 8px 32px 0 rgba(99, 102, 241, 0.37); animation: float 3s ease-in-out infinite;"/>
   
   <!-- You can also use a custom profile image URL -->
   <!-- <img src="YOUR_IMAGE_URL_HERE" alt="Profile Picture" width="200" height="200" style="border-radius: 50%;"/> -->
@@ -24,9 +24,9 @@
   <!-- Gradient Name with Glass Effect -->
   <h1>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=false&width=500&height=80&lines=YOUR+NAME">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=false&width=500&height=80&lines=YOUR+NAME">
-      <img alt="Name" src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=false&width=500&height=80&lines=YOUR+NAME">
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=false&width=500&height=80&lines=TONMOY">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=false&width=500&height=80&lines=TONMOY">
+      <img alt="Name" src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=false&width=500&height=80&lines=TONMOY">
     </picture>
   </h1>
   
@@ -69,9 +69,9 @@
 
 ```typescript
 const webDeveloper = {
-  name: "Your Name",
+  name: "Tonmoy",
   role: "Full Stack Web Developer & Designer",
-  location: "🌍 Your Location",
+  location: "🌍 Bangladesh",
   languages: ["JavaScript", "TypeScript", "Python", "Bengali", "English"],
   specialization: [
     "🎨 UI/UX Design",
@@ -91,9 +91,9 @@ const webDeveloper = {
 
 ```typescript
 const ওয়েবডেভেলপার = {
-  নাম: "আপনার নাম",
+  নাম: "তন্ময়",
   ভূমিকা: "ফুল স্ট্যাক ওয়েব ডেভেলপার ও ডিজাইনার",
-  অবস্থান: "🌍 আপনার অবস্থান",
+  অবস্থান: "🌍 বাংলাদেশ",
   ভাষা: ["জাভাস্ক্রিপ্ট", "টাইপস্ক্রিপ্ট", "পাইথন", "বাংলা", "ইংরেজি"],
   বিশেষত্ব: [
     "🎨 UI/UX ডিজাইন",
@@ -187,37 +187,37 @@ const ওয়েবডেভেলপার = {
 ## 📊 GitHub Statistics | গিটহাব পরিসংখ্যান
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&bg_color=00000000&border_radius=15" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=000000&bg_color=00000000&border_radius=15" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&bg_color=00000000&border_radius=15" alt="GitHub Stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tonmoy&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&bg_color=00000000&border_radius=15" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Tonmoy&show_icons=true&theme=default&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=000000&bg_color=00000000&border_radius=15" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tonmoy&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&bg_color=00000000&border_radius=15" alt="GitHub Stats"/>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=00000000&border_radius=15" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideNums=000000&sideLabels=000000&dates=000000&background=00000000&border_radius=15" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=00000000&border_radius=15" alt="GitHub Streak"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Tonmoy&theme=transparent&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=00000000&border_radius=15" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Tonmoy&theme=default&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideNums=000000&sideLabels=000000&dates=000000&background=00000000&border_radius=15" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tonmoy&theme=transparent&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=00000000&border_radius=15" alt="GitHub Streak"/>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=00000000&border_radius=15&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&title_color=6366f1&text_color=000000&bg_color=00000000&border_radius=15&langs_count=8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=00000000&border_radius=15&langs_count=8" alt="Top Languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonmoy&layout=compact&theme=transparent&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=00000000&border_radius=15&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonmoy&layout=compact&theme=default&hide_border=true&title_color=6366f1&text_color=000000&bg_color=00000000&border_radius=15&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonmoy&layout=compact&theme=transparent&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=00000000&border_radius=15&langs_count=8" alt="Top Languages"/>
 </picture>
 
 ### 🏆 GitHub Trophies | গিটহাব ট্রফি
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Tonmoy&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Tonmoy&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tonmoy&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </picture>
 
 ### 📈 Contribution Graph | অবদান গ্রাফ
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=00000000&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal&hide_border=true&bg_color=00000000&color=6366f1&line=6366f1&point=000000&area=true&area_color=6366f1" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=00000000&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" width="100%" alt="Contribution Graph"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Tonmoy&theme=react-dark&hide_border=true&bg_color=00000000&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Tonmoy&theme=minimal&hide_border=true&bg_color=00000000&color=6366f1&line=6366f1&point=000000&area=true&area_color=6366f1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tonmoy&theme=react-dark&hide_border=true&bg_color=00000000&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" width="100%" alt="Contribution Graph"/>
 </picture>
 
 </div>
@@ -427,34 +427,34 @@ graph LR
 ## 🌐 Connect With Me | আমার সাথে যোগাযোগ করুন
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/Tonmoy">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <a href="https://twitter.com/Tonmoy">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK">
+  <a href="https://facebook.com/Tonmoy">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
+  <a href="https://instagram.com/Tonmoy">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://dribbble.com/YOUR_DRIBBBLE">
+  <a href="https://dribbble.com/Tonmoy">
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
   </a>
-  <a href="https://behance.net/YOUR_BEHANCE">
+  <a href="https://behance.net/Tonmoy">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
-  <a href="https://codepen.io/YOUR_CODEPEN">
+  <a href="https://codepen.io/Tonmoy">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
   </a>
-  <a href="https://dev.to/YOUR_DEVTO">
+  <a href="https://dev.to/Tonmoy">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:tonmoy@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://tonmoy.dev">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -467,20 +467,20 @@ graph LR
 
 **🇬🇧 English**
 
-📮 **Email:** your.email@example.com  
-💬 **Discord:** YourDiscord#1234  
-📱 **Phone:** +880 XXX-XXXXXXX  
-🌐 **Website:** [yourportfolio.com](https://yourportfolio.com)
+📮 **Email:** tonmoy@example.com  
+💬 **Discord:** Tonmoy#1234  
+📱 **Phone:** +880 1XX-XXXXXXX  
+🌐 **Website:** [tonmoy.dev](https://tonmoy.dev)
 
 </td>
 <td align="center" width="50%">
 
 **🇧🇩 বাংলা**
 
-📮 **ইমেইল:** your.email@example.com  
-💬 **ডিসকর্ড:** YourDiscord#1234  
-📱 **ফোন:** +৮৮০ XXX-XXXXXXX  
-🌐 **ওয়েবসাইট:** [yourportfolio.com](https://yourportfolio.com)
+📮 **ইমেইল:** tonmoy@example.com  
+💬 **ডিসকর্ড:** Tonmoy#1234  
+📱 **ফোন:** +৮৮০ 1XX-XXXXXXX  
+🌐 **ওয়েবসাইট:** [tonmoy.dev](https://tonmoy.dev)
 
 </td>
 </tr>
@@ -496,9 +496,9 @@ graph LR
 ## 🎵 Currently Vibing To | এখন যা শুনছি
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00d9ff&bar_color_cover=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=6366f1&bar_color_cover=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=Tonmoy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00d9ff&bar_color_cover=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=Tonmoy&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=6366f1&bar_color_cover=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=Tonmoy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing"/>
 </picture>
 
 </div>
@@ -586,14 +586,14 @@ graph LR
 ## 👀 Profile Views | প্রোফাইল ভিউ
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00d9ff&style=for-the-badge">
-  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6366f1&style=for-the-badge">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Tonmoy&label=Profile%20Views&color=00d9ff&style=for-the-badge">
+  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=Tonmoy&label=Profile%20Views&color=6366f1&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=Tonmoy&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
 </picture>
 
 ### ⭐ Star Rating | স্টার রেটিং
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=social" alt="GitHub Stars"/>
+<img src="https://img.shields.io/github/stars/Tonmoy?style=social" alt="GitHub Stars"/>
 
 </div>
 
@@ -610,7 +610,7 @@ graph LR
 
 ### ☕ Buy Me a Coffee
 
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+<a href="https://www.buymeacoffee.com/Tonmoy">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
 </a>
 
@@ -619,7 +619,7 @@ graph LR
 
 ### 💝 PayPal
 
-<a href="https://paypal.me/YOUR_PAYPAL">
+<a href="https://paypal.me/Tonmoy">
   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
 </a>
 
@@ -628,7 +628,7 @@ graph LR
 
 ### 🌟 GitHub Sponsor
 
-<a href="https://github.com/sponsors/YOUR_USERNAME">
+<a href="https://github.com/sponsors/Tonmoy">
   <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=ea4aaa" alt="GitHub Sponsors"/>
 </a>
 
@@ -683,10 +683,10 @@ Made with ❤️ and lots of ☕
 
 ### 🔗 Quick Links | দ্রুত লিংক
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://your-resume-link.com)
-[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://yourblog.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tonmoy.dev)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://tonmoy.dev/resume)
+[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://tonmoy.dev/blog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Tonmoy)
 
 ---
 
